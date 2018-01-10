@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GmailTestingApp.BO.FunctionalTask1">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAABAACAAAIAACAAAEAAAAAAAA=</HashCode>
+      <FileName>BO\FunctionalTask1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.core.PageObject" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>core\PageObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.core.WaitFunctions">
+    <Position X="10.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAABAAAEQAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>core\WaitFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.Form1">
+    <Position X="12.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAACCAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.Program" Collapsed="true">
+    <Position X="16.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.PO.CreateMessagePage">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAgAgEAIAAACAAAAAABAIAAAAAIAAAAAA=</HashCode>
+      <FileName>PO\CreateMessagePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.PO.DraftsMessagesPage">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAUAAAQAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>PO\DraftsMessagesPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.PO.GoogleAccPage">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAgA=</HashCode>
+      <FileName>PO\GoogleAccPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.PO.ImportantMessagesPage">
+    <Position X="17.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>PO\ImportantMessagesPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.PO.InboxMessagesPage">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PO\InboxMessagesPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.PO.LoginPage">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAgAAAAAAIAIAAAAAAA=</HashCode>
+      <FileName>PO\LoginPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.PO.MainPage">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAgAgAAEAAAQEIAKAAAIAQAAAIAAAAAAA=</HashCode>
+      <FileName>PO\MainPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.PO.MessageShowPage">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PO\MessageShowPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.PO.PasswordPage">
+    <Position X="15.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>PO\PasswordPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.PO.SentEmailPage">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQEAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAA=</HashCode>
+      <FileName>PO\SentEmailPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.Properties.Resources" Collapsed="true">
+    <Position X="14.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.Properties.Settings" Collapsed="true">
+    <Position X="12.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.BO.FunctionalTask2">
+    <Position X="3.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAAAQAAAAAAAAAAAABAAAAAAAAIAAAAAAIAAAAA=</HashCode>
+      <FileName>BO\FunctionalTask2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.BO.FunctionalTask3">
+    <Position X="5.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAABA=</HashCode>
+      <FileName>BO\FunctionalTask3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.BO.FunctionalTask4">
+    <Position X="7.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAFAAAAAAAAAAAAhIAAAAAAAAAAAA=</HashCode>
+      <FileName>BO\FunctionalTask4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.core.FuncTestSetUp">
+    <Position X="7" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAACAAAAAAAAAAAAACAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>core\FuncTestSetUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GmailTestingApp.PO.BadEmailPage" Collapsed="true">
+    <Position X="18.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUAAAAAAAAAAEAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>PO\BadEmailPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
